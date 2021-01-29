@@ -1,5 +1,3 @@
-# Virtual-Host-Script
-
 ## Script to create virtual host for apache2 in Ubuntu.
 
 ### Usage
